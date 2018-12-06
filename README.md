@@ -9,3 +9,4 @@ e:=a*b;
 writelin(e);
 writelin('yeeeeeessssss')
 end.
+oooooooooooooo a square
