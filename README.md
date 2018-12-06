@@ -10,3 +10,8 @@ writelin(e);
 writelin('yeeeeeessssss')
 end.
 oooooooooooooo a square
+
+now with python 
+
+a = 5
+print (a)
