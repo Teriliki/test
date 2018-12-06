@@ -7,4 +7,5 @@ readlin(a);
 readlin(b);
 e:=a*b;
 writelin(e);
+writelin('yeeeeeessssss')
 end.
